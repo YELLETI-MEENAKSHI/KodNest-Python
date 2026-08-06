@@ -5,3 +5,5 @@ while count <= n:
     total = total + count
     count = count + 1
     print(f"Total: {total}")
+
+    
